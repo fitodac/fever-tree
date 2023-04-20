@@ -1,0 +1,95 @@
+.form-response{
+	border: solid 1px #000;
+	margin: 50px 0;
+	padding: 50px 30px;
+
+	.brand{
+		margin: 0 auto 40px;
+	}//brand
+
+
+	h1{
+		color: $color-primary;
+		font-family: $font-secondary;
+		font-size: 2rem;
+		line-height: 1.2;
+		text-transform: uppercase;
+		text-align: center;
+		width: 80%;
+		margin: 0 auto 30px;
+	}//h1
+
+
+	.message{
+		width: 80%;
+		text-align: center;
+		margin: 0 auto;
+	}//message
+
+
+	.btn{
+		background: #fff;
+		border: solid 2px #000;
+		font-size: .8rem;
+		line-height: 1;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+		padding: 12px 50px;
+		border-radius: 0;
+
+
+		&:hover{
+			background: #000;
+			color: #fff;
+		}//:hover
+
+	}//btn
+
+
+
+	@media (min-width: 460px){
+
+		h1{
+			font-size: 2.3rem;
+			width: 60%;
+		}//h1
+
+
+		.message{ width: 60%; }
+
+	}
+
+
+
+	@media (min-width: 768px){
+
+		h1{ font-size: 3rem; }
+
+		.message{ width: 63%; }
+
+	}
+
+
+
+	@media (min-width: 992px){
+
+		.brand{
+			width: 170px;
+			height: 64px;
+		}//brand
+
+	}
+
+
+
+	@media (min-width: 1200px){
+
+		h1{
+			width: 50%;
+		}//h1
+
+		.message{ width: 52%; }
+
+	}
+
+}//form-response
