@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="42px" viewBox="0 0 86 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>toggle-on</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="toggle-on" fill-rule="nonzero">
+            <path d="M20.2,41.1 L65.8,41.1 C76.9,41.1 85.9,32.1 85.9,21 L85.9,21 C85.9,9.9 76.9,0.9 65.8,0.9 L20.2,0.9 C9.1,0.9 0.1,9.9 0.1,21 L0.1,21 C0.1,32.1 9.2,41.1 20.2,41.1 Z" id="Path" fill="#A60808"></path>
+            <path d="M65.2,6.3 C73.3,6.3 79.9,12.9 79.9,21 C79.9,29.1 73.3,35.7 65.2,35.7 C57.1,35.7 50.5,29.1 50.5,21 C50.5,12.9 57.1,6.3 65.2,6.3 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
